@@ -1,0 +1,19 @@
+{
+  "name": "neoradoga",
+  "version": "1.0.0",
+  "description": "너라도가 바닐라 스크립트 사이트 작성",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyoda/neoradoga.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyoda/neoradoga/issues"
+  },
+  "homepage": "https://github.com/hyoda/neoradoga#readme"
+}
